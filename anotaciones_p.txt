@@ -1,0 +1,7 @@
+posicion 1: (-4, -0.7, -5.2). camera lookat(0,4,0)
+
+posicion 2: (2, 5.2, -0.9) camera lookat(0,4,0)
+
+
+
+
